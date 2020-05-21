@@ -1,2 +1,2 @@
 # NumPy-and-Pandas
-this repository contains brief introduction of NumPy and Pandas
+A brief introduction to the most widely used Python libraries in data science 
